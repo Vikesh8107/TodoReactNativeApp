@@ -1,14 +1,14 @@
 # To Do React Native App
 
-This repository contains the frontend implementation of the BitCoin Saving Android app.
+This repository contains the implementation of the ToDo Android app.
 
 ## Setup Instructions
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vikesh8107/MyApp_ToDo.git
-   cd MyApp_ToDo
+   git clone https://github.com/Vikesh8107/TodoReactNativeApp.git
+   cd TodoReactNativeApp
    ```
 
 2. Install dependencies:
