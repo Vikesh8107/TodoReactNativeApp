@@ -1,4 +1,4 @@
-# BitCoin Saving Frontend
+# To Do React Native App
 
 This repository contains the frontend implementation of the BitCoin Saving Android app.
 
