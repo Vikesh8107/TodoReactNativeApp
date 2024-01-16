@@ -48,5 +48,5 @@ Include screenshots of the app in action.
 
 ## Contributors
 
-- Your Name: Vikesh Laharpure
-- Your Email: vikeshlaharpure999@gmail.com
+- Name: Vikesh Laharpure
+- Email: vikeshlaharpure999@gmail.com
